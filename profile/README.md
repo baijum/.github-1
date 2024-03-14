@@ -16,7 +16,7 @@ To get started, please check out the guide for the appropriate role
 
 ### Specifications
 
-* [Core 1.0.0][spec-1.0.0]
+* [Core 1.1.0][spec-1.1.0]
 
 ### Community, discussion, contribution, and support
 
